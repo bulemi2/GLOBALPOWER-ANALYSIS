@@ -70,7 +70,7 @@ The bar plot presents the top 70 regions with the highest total renewable electr
 The plot depicts the global trend of renewable energy generation over time, showcasing a steady increase with fluctuations. Hydroelectric power dominates, followed by significant contributions from wind and solar power. Other renewables like bioenergy also play a role, albeit to a lesser extent. This data underscores global efforts to reduce emissions and expand renewable energy sources. However, challenges such as infrastructure, financing, and policy limitations remain.
 ![Untitled](https://github.com/bulemi2/GLOBALPOWER-ANALYSIS/assets/133605850/c85dba25-d810-47da-9006-8b4e5bbeb969)
 
-#MODELING
+## MODELING
 
 The analysis compared the performance of three machine learning algorithms (Random Forest, Gradient Boosting, and Linear Regression) in predicting renewable energy production across different energy sources. 
  	Random Forest 	GradientBoosting
