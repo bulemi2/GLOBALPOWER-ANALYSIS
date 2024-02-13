@@ -92,13 +92,14 @@ Insights:
 5. Forecasting was effective for localized data but less accurate when aggregating data from multiple countries.
 6. Detailed reports with visualizations and insights were generated for each energy source.
 
-**Conclusion**:
+## Conclusion
+
 The analysis highlights the importance of model selection and evaluation in predicting renewable energy production accurately. Linear Regression emerged as the most reliable model, emphasizing the need for further research to enhance forecasting accuracy, especially for heterogeneous datasets.
 Hydropower Dominance: The analysis highlights hydropower's significant role in global renewable energy, evident from its strong correlation with total renewable electricity generation.
 
 Diversification Potential: Positive correlations between wind and solar energy suggest opportunities for strategic portfolio diversification, aiding countries in balancing their renewable energy mix.
 
-**Recommendations**
+## Recommendations
 Non-Renewable Dependency: Near-perfect correlation between non-renewable electricity and overall generation emphasizes continued reliance on non-renewable sources, urging a gradual shift towards sustainability.
 
 Renewable Energy Growth: Wind, solar, and hydropower show promising growth trends, indicating a rising trajectory in global renewable energy adoption.
@@ -118,6 +119,7 @@ Foster Collaboration: Facilitate collaboration among governments, organizations,
 Embrace Innovative Solutions: Drive adoption of innovative solutions like smart grids and energy storage to address renewable energy challenges and promote scalability.
 
 **Next Steps**
+
 Refine and Validate Models:
 - Continuously refine and validate the regression models, exploring additional variables and feature engineering techniques to improve accuracy.
 
